@@ -25,6 +25,7 @@ const NavBar = () => {
     </header>
 
     <br id="top-spacer"></br>
+    
     </div>
   )
 }
